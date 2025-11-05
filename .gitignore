@@ -1,0 +1,9 @@
+*.uasset
+**/Saved/*
+**/Intermediate/*
+**/Build/*
+**/Binaries/*
+**/Android_ASTC/*
+**/WindowsNoEditor/*
+**/Windows/*
+**/DerivedDataCahe/*
