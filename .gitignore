@@ -7,3 +7,5 @@
 **/WindowsNoEditor/*
 **/Windows/*
 **/DerivedDataCahe/*
+**/.vs/*
+.vsconfig
